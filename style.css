@@ -1,0 +1,27 @@
+* {
+    font-family: 'Muli', sans-serif;
+}
+
+body {
+    background-color: rgb(32, 32, 32);
+    margin: 0;
+}
+
+#particles-js {
+    height: 100%;
+    width: 100%;
+    position: fixed;
+}
+
+h1 {
+    width: 100%;
+    position: absolute;
+    font-weight: lighter;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    text-align: center;
+    margin: 0;
+    top: 50%;
+    transform: translateY(-150%);
+}
